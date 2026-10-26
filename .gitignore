@@ -1,0 +1,11 @@
+.vercel/
+node_modules/
+.DS_Store
+.env
+.env.*
+!.env.example
+**/node_modules/
+avatar-proxy/knowledge/
+*.log
+.vercel
+.env*

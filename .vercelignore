@@ -1,0 +1,4 @@
+avatar-proxy/
+tests/
+.env
+.env.*
